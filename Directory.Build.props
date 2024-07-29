@@ -13,7 +13,7 @@
   </PropertyGroup>
 
   <PropertyGroup Label="Package versions for System.Diagnostics.DiagnosticSource">
-    <SystemDiagnosticsDiagnosticSourcePkgVer>5.0.0</SystemDiagnosticsDiagnosticSourcePkgVer>
+    <SystemDiagnosticsDiagnosticSourcePkgVer>8.0.1</SystemDiagnosticsDiagnosticSourcePkgVer>
     <SystemDiagnosticsDiagnosticSourcePkgVer Condition="'$(Redfield)' == 'True'">4.7.0</SystemDiagnosticsDiagnosticSourcePkgVer>
   </PropertyGroup>
 
